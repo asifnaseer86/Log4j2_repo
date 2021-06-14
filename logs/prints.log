@@ -1,0 +1,4 @@
+19:34:10.182 [main] ERROR beta.LoggingDemo1 - Object is not present
+19:36:51.117 [main] INFO  beta.LoggingDemo1 - I am debugging
+19:36:51.120 [main] DEBUG beta.LoggingDemo1 - Object is present
+19:36:51.120 [main] ERROR beta.LoggingDemo1 - Object is not present

@@ -1,0 +1,8 @@
+19:32:42.229 [main] FATAL alpha.LoggingDemo - Object is not present
+19:32:42.232 [main] ERROR alpha.LoggingDemo - Object is not present
+19:33:25.555 [main] INFO  alpha.LoggingDemo - I am debugging
+19:33:25.565 [main] DEBUG alpha.LoggingDemo - Object is present
+19:33:25.566 [main] FATAL alpha.LoggingDemo - Object is not missing
+19:33:25.566 [main] ERROR alpha.LoggingDemo - Object is not present
+19:34:10.177 [main] INFO  beta.LoggingDemo1 - I am debugging
+19:34:10.182 [main] DEBUG beta.LoggingDemo1 - Object is present
